@@ -40,7 +40,7 @@ export default function MyComponent() {
         </h1>
         <div className="text-xl text-gray-400 mt-2">
           Your personal programming coach powered by ChatGPT. Just share your
-          solution and get instant feedback on what's going wrong.
+          solution and get instant feedback on what is going wrong.
         </div>
       </div>
 
